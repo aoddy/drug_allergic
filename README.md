@@ -24,4 +24,6 @@ We would like to thank Assoc. Prof. Jettanong Klaewsongkram and Dr. Yuda Chongpi
 # License
 
 All information contained in this dataset is confidential and should not be shared outside of Chulalongkorn University's AI Academy staff and examinees.
-** I am not sharing the dataset but I need to share my python model.
+
+# From me
+I am not sharing the dataset but I need to share my python code
