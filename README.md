@@ -1,4 +1,4 @@
-# Drug Allergic
+# Drug Allergic Prediction Model
 The prediction model for drug allergic by using logistic regression.
 
 # Problem introduction
