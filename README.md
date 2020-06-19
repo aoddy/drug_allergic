@@ -1,5 +1,5 @@
 # Drug Allergic Prediction Model
-The prediction model for drug allergic by using logistic regression.
+The prediction model for drug allergic.
 
 # Problem introduction
 - All doctors want to avoid prescribing drugs that maybe allergic to the patients
